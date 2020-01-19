@@ -12,3 +12,4 @@ Limitaciones:
 - Todo el codigo en un mismo .py para poder ser ejecutado en las máquinas del banco con facilidad
 - Son necesarios conocimientos intermedios y acceso a Murex 3 para usar todas las funciones del programa
 - Parte del codigo ha sido alterado al contener información confidencial
+
