@@ -11,5 +11,5 @@ Limitaciones:
 - Limitado a los modulos base de python (r.i.p pandas y numpy) por falta de privilegios para instalarlos en la maquina del banco
 - Todo el codigo en un mismo .py para poder ser ejecutado en las máquinas del banco con facilidad
 - Son necesarios conocimientos intermedios y acceso a Murex 3 para usar todas las funciones del programa
-- Parte del codigo ha sido alterado al contener información confidencial
+- Gran parte del codigo ha sido eliminado al contener información confidencial
 
