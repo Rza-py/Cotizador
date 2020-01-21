@@ -1,4 +1,4 @@
-# Cotizador ROF (versión sin información confidencial):
+# Cotizador ROF:
 
 Funciones:
 
